@@ -7,7 +7,7 @@ Hello, I am Christian Jay Perucho, BSIT 2A, I'm 20 years Old, And I have Hidden 
 * Activities
 * Contact
 # Live Site
-My Portfolio:https://peruchochristianjay-source.github.io/perucho-portfolio/
+My Portfolio:https: https://peruchochristianjay-source.github.io/perucho-portfolioo/
 # Technology Used
 * GitHub
 * Visual Studio Code
